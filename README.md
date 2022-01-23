@@ -35,7 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
+```
 --include your code--
 <!DOCTYPE html>
 <html lang="en">
@@ -227,10 +227,9 @@ document
     
 </body>
 </html>
-
+```
 ## OUTPUT:
-
-![github logo](paint.png)
+![github logo](p1.png)
 
 ## Result:
 
